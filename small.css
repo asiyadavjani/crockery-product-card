@@ -1,0 +1,23 @@
+.box{
+    width:450px
+}
+.productcard{
+    width: 290px;
+}
+   
+.productcard img{
+    width: 290px;
+}
+.productvarity img{
+    width: 68px;}
+
+  h1,h2,h3,h4,.colouroption,h5,ul,button{
+    left: 150px;
+  }  
+  h1{
+    font-size:30px ;
+  }
+  .colouroption img {
+    width: 55px;
+
+  }

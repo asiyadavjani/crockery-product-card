@@ -1,0 +1,25 @@
+.box{
+    max-width:250px
+}
+.productcard{
+    max-width: 180px;
+    height: 590px;
+    top:0; 
+}
+   
+.productcard img{
+    width: 180px;
+}
+.productvarity img{
+    width: 86px;}
+
+  h1,h2,h3,h4,.colouroption,h5,ul,button{
+    left: 40px;
+  }  
+  h1{
+    font-size:25px ;
+  }
+  .colouroption img {
+    width: 45px;
+
+  }

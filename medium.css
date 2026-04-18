@@ -1,0 +1,18 @@
+.box{
+    width:650px
+}
+.productcard{
+    width: 400px;
+}
+   
+.productcard img{
+    width: 400px;
+}
+.productvarity img{
+    width: 96px;}
+  h1,h2,h3,h4,.colouroption,h5,ul,button{
+    left: 250px;
+  }  
+  h1{
+    font-size:40px ;
+  }

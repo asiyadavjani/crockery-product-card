@@ -1,0 +1,23 @@
+.box{
+    max-width:300px
+}
+.productcard{
+    max-width: 220px;
+}
+   
+.productcard img{
+    width: 220px;
+}
+.productvarity img{
+    width: 50px;}
+
+  h1,h2,h3,h4,.colouroption,h5,ul,button{
+    left: 80px;
+  }  
+  h1{
+    font-size:20px ;
+  }
+  .colouroption img {
+    width: 35px;
+
+  }
